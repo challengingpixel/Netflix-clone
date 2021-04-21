@@ -12,7 +12,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
-NOTE!: The sign up screen is in progress, so if you want so sign up you must to write email and password and after that click on the SING UP NOW link on the bottom of the SIGN IN screen. Also you can check it the deployed version with firebase on the following link https://lookie-e3936.web.app/?fbclid=IwAR2kge0Gn5v0uz2jQeF22j1Uhx1ykp5JHmPiu-V0dfXQEO3Gcgl2GMqLj9k
+NOTE!: The sign up screen is in progress, so if you want so sign up you must write an email and password and after that click on the SING UP NOW link on the bottom of the SIGN IN screen. Also you can check it the deployed version with firebase on the following link https://lookie-e3936.web.app/?fbclid=IwAR2kge0Gn5v0uz2jQeF22j1Uhx1ykp5JHmPiu-V0dfXQEO3Gcgl2GMqLj9k
 
 ### `npm test`
 
